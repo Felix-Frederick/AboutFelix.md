@@ -20,13 +20,6 @@ Here are some ideas to get people creating their GitHub repositories started:-->
 - Bash
 - Jupyter Notebook
 
-🤝 **I'm looking to Collaborate On:**
-
-I am willing to collaborate on topics that pertain to my current work:
-
-- Software Development
-- Physics Research Papers
-
 🚀 **Fun fact:**
 
 I am left handed.
