@@ -23,6 +23,7 @@ Here are some ideas to get people creating their GitHub repositories started:-->
 🚀 **Fun fact:**
 
 I am left handed.
+I am biligual.
 
 📧 **How to contact me:**
 Don't hestitate to reach out if you wish to collaborate on a project or if you want programming advice. You can contact me at:
